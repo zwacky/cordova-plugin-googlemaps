@@ -149,7 +149,7 @@ The native map view is faster, use less network usage, display 3D views, and eve
           <preference name="BackgroundColor" value="0" />
 
           <!-- for this plugin -->
-          <preference name="android-minSdkVersion" value="19" />
+          <preference name="android-minSdkVersion" value="1" />
         </config-file>
 
         <config-file target="res/xml/config.xml" parent="/*">
